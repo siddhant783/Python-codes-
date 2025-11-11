@@ -1,0 +1,7 @@
+n=int(input("enter marks"))
+if n>35 and n<60 :
+    print("strudent is pass")
+elif(n>60):
+    print("strudent pass in first class")
+else:
+    print("strudent is fail")
